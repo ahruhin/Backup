@@ -69,7 +69,7 @@ nav ul li a {
 .content .btn {
 	padding: 15px 40px;
 	font-size: 16px;
-	animation-delay: 0.5s;
+	animation-delay: 1s;
 }
 .btn:hover {
 	border-top-right-radius: 30px;
@@ -81,7 +81,7 @@ nav ul li a {
 	right: 10%;
 }
 .feature-img.anim {
-	animation-delay: 0.5s;
+	animation-delay: 1.5s;
 }
 .anim {
 	opacity: 0;
